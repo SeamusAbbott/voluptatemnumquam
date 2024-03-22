@@ -1,0 +1,30 @@
+{
+  "name": "voluptatemnumquam",
+  "version": "1.0.0",
+  "description": "A simple, lightweight and actually good JS wrapper for the SauceNAO API.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeamusAbbott/voluptatemnumquam.git"
+  },
+  "keywords": [
+    "hitorigoto",
+    "nobis",
+    "saucenao",
+    "reprehenderit",
+    "non",
+    "assumenda"
+  ],
+  "author": "ValentinPouros",
+  "license": "MIT",
+  "homepage": "https://github.com/SeamusAbbott/voluptatemnumquam.git",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "form-data": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2"
+  }
+}
